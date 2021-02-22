@@ -1,3 +1,5 @@
+![](gif.gif)
+
 # Splockify
 
 Display the currently playing Spotify song on your Slack status.
